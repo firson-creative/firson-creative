@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071817"/>
+    <stop offset="0.55" stop-color="#0b2928"/>
+    <stop offset="1" stop-color="#071214"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00bfa6"/>
+    <stop offset="1" stop-color="#67f7dd"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#00bfa6" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#00bfa6" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="blur"/>
+    <feOffset dy="5" result="off"/>
+    <feColorMatrix in="off" type="matrix"
+      values="0 0 0 0 0  0 0 0 0 0.7  0 0 0 0 0.6  0 0 0 .35 0"/>
+    <feBlend in="SourceGraphic" mode="normal"/>
+  </filter>
+</defs>
+
+<rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+<circle cx="1010" cy="90" r="190" fill="url(#glow)"/>
+<circle cx="1050" cy="90" r="105" fill="none" stroke="#0e8f86" stroke-opacity=".25"/>
+<circle cx="1050" cy="90" r="62" fill="none" stroke="#0e8f86" stroke-opacity=".18"/>
+<path d="M70 325 C260 250, 370 380, 575 280 S850 180, 1110 285" fill="none" stroke="#00bfa6" stroke-opacity=".12" stroke-width="2"/>
+<path d="M72 350 H1128" stroke="#0e8f86" stroke-opacity=".18"/>
+<rect x="36" y="36" width="1128" height="358" rx="24" fill="#0b2928" fill-opacity=".92" stroke="#0e8f86" stroke-width="1.5"/>
+<circle cx="104" cy="126" r="58" fill="#071817" stroke="#67f7dd" stroke-width="2"/>
+<text x="104" y="142" text-anchor="middle" fill="#67f7dd" font-size="45" font-weight="800" font-family="Inter,Arial,sans-serif">F</text>
+
+<text x="188" y="91" fill="#67f7dd" font-size="18" font-weight="700" font-family="Inter,Arial,sans-serif">@firson-creative</text>
+<text x="188" y="150" fill="#e8fffc" font-size="52" font-weight="800" font-family="Inter,Arial,sans-serif">Firson Siwan Ta'gan</text>
+<text x="188" y="187" fill="#8ed8ce" font-size="19" font-family="Inter,Arial,sans-serif">Building software, AI systems &amp; automation.</text>
+
+<g font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">
+  <rect x="188" y="218" width="116" height="36" rx="18" fill="#071817" stroke="#0e8f86"/>
+  <text x="246" y="241" text-anchor="middle" fill="#67f7dd">PYTHON</text>
+  <rect x="316" y="218" width="105" height="36" rx="18" fill="#071817" stroke="#0e8f86"/>
+  <text x="368" y="241" text-anchor="middle" fill="#67f7dd">AI / ML</text>
+  <rect x="433" y="218" width="103" height="36" rx="18" fill="#071817" stroke="#0e8f86"/>
+  <text x="484" y="241" text-anchor="middle" fill="#67f7dd">WEB</text>
+  <rect x="548" y="218" width="146" height="36" rx="18" fill="#071817" stroke="#0e8f86"/>
+  <text x="621" y="241" text-anchor="middle" fill="#67f7dd">AUTOMATION</text>
+</g>
+
+<text x="188" y="310" fill="#5eaaa1" font-size="13" font-family="monospace">BUILD → TEST → LEARN → IMPROVE</text>
+<text x="188" y="342" fill="#a7d9d2" font-size="15" font-family="Inter,Arial,sans-serif">Computer Engineering student • Makassar, Indonesia</text>
+
+<circle cx="1070" cy="336" r="5" fill="#67f7dd"/>
+<circle cx="1088" cy="336" r="5" fill="#00bfa6"/>
+<circle cx="1106" cy="336" r="5" fill="#0e8f86"/>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071817"/>
+    <stop offset="0.55" stop-color="#0b2928"/>
+    <stop offset="1" stop-color="#071214"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00bfa6"/>
+    <stop offset="1" stop-color="#67f7dd"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#00bfa6" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#00bfa6" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="blur"/>
+    <feOffset dy="5" result="off"/>
+    <feColorMatrix in="off" type="matrix"
+      values="0 0 0 0 0  0 0 0 0 0.7  0 0 0 0 0.6  0 0 0 .35 0"/>
+    <feBlend in="SourceGraphic" mode="normal"/>
+  </filter>
+</defs>
+<rect width="1200" height="520" rx="28" fill="#071817"/><rect x="36" y="36" width="1128" height="448" rx="24" fill="#0b2928" fill-opacity=".92" stroke="#0e8f86" stroke-width="1.5"/>
+<text x="72" y="84" fill="#67f7dd" font-size="14" font-weight="800" letter-spacing="2" font-family="Inter,Arial,sans-serif">SELECTED BUILDS</text>
+<text x="72" y="122" fill="#e8fffc" font-size="30" font-weight="800" font-family="Inter,Arial,sans-serif">Projects that shaped the journey.</text>
+
+<g font-family="Inter,Arial,sans-serif">
+  <rect x="72" y="157" width="500" height="135" rx="18" fill="#071817" stroke="#0e8f86"/>
+  <text x="96" y="188" fill="#67f7dd" font-size="12" font-weight="800">AI / PYTHON</text>
+  <text x="96" y="220" fill="#e8fffc" font-size="23" font-weight="800">Project UAS</text>
+  <text x="96" y="247" fill="#78bdb5" font-size="14">Document processing • vectors • Q&amp;A</text>
+  <text x="96" y="274" fill="#5eaaa1" font-size="13">github.com/firson-creative/project-uas</text>
+
+  <rect x="600" y="157" width="484" height="135" rx="18" fill="#071817" stroke="#0e8f86"/>
+  <text x="624" y="188" fill="#67f7dd" font-size="12" font-weight="800">WEB / FLASK</text>
+  <text x="624" y="220" fill="#e8fffc" font-size="23" font-weight="800">Project UTS</text>
+  <text x="624" y="247" fill="#78bdb5" font-size="14">Python • Flask • HTML • CSS</text>
+  <text x="624" y="274" fill="#5eaaa1" font-size="13">github.com/firson-creative/project-uts</text>
+
+  <rect x="72" y="314" width="500" height="135" rx="18" fill="#071817" stroke="#0e8f86"/>
+  <text x="96" y="345" fill="#67f7dd" font-size="12" font-weight="800">DATA SCIENCE</text>
+  <text x="96" y="377" fill="#e8fffc" font-size="23" font-weight="800">WC Data Science</text>
+  <text x="96" y="404" fill="#78bdb5" font-size="14">Python • Jupyter • analysis</text>
+  <text x="96" y="431" fill="#5eaaa1" font-size="13">github.com/firson-creative/wc-datascience-finalproject</text>
+
+  <rect x="600" y="314" width="484" height="135" rx="18" fill="#071817" stroke="#0e8f86"/>
+  <text x="624" y="345" fill="#67f7dd" font-size="12" font-weight="800">FOUNDATION</text>
+  <text x="624" y="377" fill="#e8fffc" font-size="23" font-weight="800">Python Learning Journey</text>
+  <text x="624" y="404" fill="#78bdb5" font-size="14">Programming fundamentals → projects</text>
+  <text x="624" y="431" fill="#5eaaa1" font-size="13">github.com/firson-creative/learn-python</text>
+</g>
+</svg>

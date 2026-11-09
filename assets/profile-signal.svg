@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071817"/>
+    <stop offset="0.55" stop-color="#0b2928"/>
+    <stop offset="1" stop-color="#071214"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00bfa6"/>
+    <stop offset="1" stop-color="#67f7dd"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#00bfa6" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#00bfa6" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="blur"/>
+    <feOffset dy="5" result="off"/>
+    <feColorMatrix in="off" type="matrix"
+      values="0 0 0 0 0  0 0 0 0 0.7  0 0 0 0 0.6  0 0 0 .35 0"/>
+    <feBlend in="SourceGraphic" mode="normal"/>
+  </filter>
+</defs>
+<rect width="1200" height="330" rx="28" fill="#071817"/><rect x="36" y="36" width="1128" height="258" rx="24" fill="#0b2928" fill-opacity=".92" stroke="#0e8f86" stroke-width="1.5"/>
+<text x="72" y="83" fill="#67f7dd" font-size="14" font-weight="800" letter-spacing="2" font-family="Inter,Arial,sans-serif">PROFILE SIGNAL</text>
+<text x="72" y="121" fill="#e8fffc" font-size="30" font-weight="800" font-family="Inter,Arial,sans-serif">A developer in progress.</text>
+<text x="72" y="151" fill="#78bdb5" font-size="15" font-family="Inter,Arial,sans-serif">Exploring practical software, data, AI and automation.</text>
+
+<g font-family="Inter,Arial,sans-serif">
+  <rect x="72" y="184" width="300" height="74" rx="16" fill="#071817" stroke="#0e8f86"/>
+  <text x="92" y="211" fill="#5eaaa1" font-size="12" font-weight="700">CURRENT ROLE</text>
+  <text x="92" y="238" fill="#e8fffc" font-size="16" font-weight="700">Computer Engineering Student</text>
+
+  <rect x="400" y="184" width="300" height="74" rx="16" fill="#071817" stroke="#0e8f86"/>
+  <text x="420" y="211" fill="#5eaaa1" font-size="12" font-weight="700">PRIMARY FOCUS</text>
+  <text x="420" y="238" fill="#e8fffc" font-size="16" font-weight="700">AI • Web • Data • Automation</text>
+
+  <rect x="728" y="184" width="356" height="74" rx="16" fill="#071817" stroke="#0e8f86"/>
+  <text x="748" y="211" fill="#5eaaa1" font-size="12" font-weight="700">BUILD PHILOSOPHY</text>
+  <text x="748" y="238" fill="#e8fffc" font-size="16" font-weight="700">Learn by building real projects.</text>
+</g>
+</svg>

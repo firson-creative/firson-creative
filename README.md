@@ -1,104 +1,115 @@
-<!--
-  FIRSON-CREATIVE
-  Dark Futuristic / Teal Glassmorphism Profile
--->
-
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Firson Siwan Ta'gan profile hero"/>
-
-<br><br>
-
-<img src="./assets/profile-signal.svg" width="100%" alt="Profile signal"/>
-
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · firson-creative</sub></p>
+<h1>Firson Siwan Ta'gan</h1>
+<h2>Product-minded developer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Makassar · Building at Makassar State University </sub></p>
+<p><a href="https://github.com/firson-creative">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/236599976?u=b1680c6ceff3331d73744a489764d9abd74652d6&amp;v=4" width="180" alt="Firson Siwan Ta'gan GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer · PHP · Jupyter Notebook · C++</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>10 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>82 contributions · 20 active days</p></td>
+</tr>
+</table>
 
-## `01` — THE BUILD LOG
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=firson-creative&bg_color=071817&color=67f7dd&line=00bfa6&point=67f7dd&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub activity graph"
-/>
+<h2>Proof at a glance</h2>
 
-<sub>Every contribution is another build, experiment, lesson, or improvement.</sub>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>10</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>82</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=firson-creative&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236599976%3Fu%3Db1680c6ceff3331d73744a489764d9abd74652d6%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=firson-creative&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236599976%3Fu%3Db1680c6ceff3331d73744a489764d9abd74652d6%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Firson Siwan Ta'gan GitHub proof metrics" />
+</picture>
+</p>
 
-<br>
+<h2>Selected work</h2>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=firson-creative&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236599976%3Fu%3Db1680c6ceff3331d73744a489764d9abd74652d6%26v%3D4&repos=firson-creative%2Ffirson-creative%2Cfirson-creative%2Frebazaarq%2Cfirson-creative%2Fpersonal-porto%2Cfirson-creative%2Ffinals-team5&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=firson-creative&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236599976%3Fu%3Db1680c6ceff3331d73744a489764d9abd74652d6%26v%3D4&repos=firson-creative%2Ffirson-creative%2Cfirson-creative%2Frebazaarq%2Cfirson-creative%2Fpersonal-porto%2Cfirson-creative%2Ffinals-team5&v=recruiter-projects-1&mode=dark" width="100%" alt="Firson Siwan Ta'gan selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/firson-creative/firson-creative">firson-creative</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/firson-creative/firson-creative">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<img src="./assets/projects.svg" width="100%" alt="Selected projects"/>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/firson-creative/rebazaarq">rebazaarq</a></h3><p>A selected public project.</p><p><sub>PHP · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/firson-creative/personal-porto">personal-porto</a></h3><p>A selected public project.</p><p><sub>CSS · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/firson-creative/finals-team5">finals-team5</a></h3><p>Repository project akhir semester mata kuliah Struktur Data oleh Kelompok 5</p><p><sub>C++ · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<br><br>
+<h2>Technical toolkit</h2>
 
-<img src="./assets/tech-stack.svg" width="100%" alt="Technology stack"/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=firson-creative&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236599976%3Fu%3Db1680c6ceff3331d73744a489764d9abd74652d6%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=firson-creative&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236599976%3Fu%3Db1680c6ceff3331d73744a489764d9abd74652d6%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Firson Siwan Ta'gan technology stack" />
+</picture>
+</p>
 
-</div>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>50% of public code</sub></td>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>8% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>8% of public code</sub></td>
+</tr>
+</table>
 
----
+<h2>Consistency signal</h2>
 
-## `02` — CURRENTLY BUILDING
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=firson-creative&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236599976%3Fu%3Db1680c6ceff3331d73744a489764d9abd74652d6%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=firson-creative&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236599976%3Fu%3Db1680c6ceff3331d73744a489764d9abd74652d6%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Firson Siwan Ta'gan contribution activity" />
+</picture>
+</p>
 
-```text
-AI / ML
-├── Artificial Neural Networks
-├── Machine Learning
-├── Data preprocessing
-└── AI applications
+<hr />
 
-SOFTWARE
-├── Python
-├── Flask
-├── JavaScript
-└── Git / GitHub
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/firson-creative">GitHub</a></td>
+</tr>
+</table>
 
-AUTOMATION
-├── AI agents
-├── Multi-model workflows
-├── Prompt engineering
-└── Developer automation
-```
-
-## `03` — DEVELOPMENT PATH
-
-```text
-Programming
-      │
-      ▼
-Web Development
-      │
-      ▼
-Data & Data Science
-      │
-      ▼
-Artificial Intelligence
-      │
-      ▼
-AI Engineering
-      │
-      ▼
-Automation & AI Agents
-```
-
-<details>
-<summary><b>More about my journey</b></summary>
-
-I started by building programming fundamentals and small academic projects, then moved into web development, data science, and AI-oriented projects.
-
-The goal is not only to learn individual technologies, but to understand how they can work together to solve practical problems.
-
-</details>
-
----
-
-<div align="center">
-
-<img src="./assets/footer.svg" width="100%" alt="Profile footer"/>
-
-</div>
+<p align="center"><sub>Firson Siwan Ta'gan · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
